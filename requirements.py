@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto
+pymongo[srv]
+motor
+dnspython
+requests
